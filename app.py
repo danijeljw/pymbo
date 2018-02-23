@@ -1,3 +1,5 @@
+from __init__ import *
+
 app = Flask(__name__)
 
 #Facebook Messenger API credentials from keys
