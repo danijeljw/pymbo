@@ -4,8 +4,8 @@
 
 ##### pymbo has an aim to make messenger bot scripts simple, and functional
 
+[![GitHub license](https://img.shields.io/github/license/danijeljw/pymbo.svg)](https://github.com/danijeljw/pymbo/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/danijeljw/pymbo.svg)](https://github.com/danijeljw/pymbo/issues)
-[![GitHub license](https://img.shields.io/github/license/danijeljw/pymbo.svg)]
 [![platform](https://img.shields.io/badge/python-3.6-ff69b4.svg)]()
 
 
