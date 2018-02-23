@@ -1,16 +1,15 @@
 <div align="center">
 
-# PyOpenWeater - The Weather Twitter Bot
+# pymbo - the simple messenger bot
 
-##### PyOWTB is a Twitter bot that will summarise the UV index and weather for a tweeter's location
+##### pymbo has an aim to make messenger bot scripts simple, and functional
 
 [![Version](https://img.shields.io/github/release/danijeljw/brew-goo.svg)]()
 [![license](https://img.shields.io/github/license/danijeljw/brew-goo.svg)]()
-[![platform](https://img.shields.io/badge/platform-MacOS%2C%20OSX-blue.svg)]()
 [![platform](https://img.shields.io/badge/python-2.7%2C%203.6-ff69b4.svg)]()
 
 
-### Script not tested, only boilerplate at this time
+### Currently in development, no official release or working version
 
 </div>
 
