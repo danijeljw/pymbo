@@ -3,8 +3,8 @@ from __init__ import *
 app = Flask(__name__)
 
 #Facebook Messenger API credentials from keys
-ACCESS_TOKEN = fb_keys['ACCESS_TOKEN']
-VERIFY_TOKEN = fb_keys['VERIFY_TOKEN']
+ACCESS_TOKEN = fb_keys['fb_access_token']
+VERIFY_TOKEN = fb_keys['fb_verify_token']
 
 bot = Bot(ACCESS_TOKEN)
 
